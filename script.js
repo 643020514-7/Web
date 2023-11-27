@@ -6,8 +6,8 @@ const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "ฮั่นแหน่! หยอกๆ";
-  // gif.src =
-  //   "https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif";
+  gif.src =
+    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemM5OTNpbWt5a3AyeHo2bGh3MnQ4eXk4dTBnbDRubHJhemRnbmZqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/efKmkwIKmMhMkzInnm/giphy.gif";
 });
 
 noBtn.addEventListener("mouseover", () => {
